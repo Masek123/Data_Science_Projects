@@ -1,6 +1,22 @@
 # Data_Science_Projects
-A repostitory of sample Data Science Projects
-## Technology Used
-## Instalation Instruction
-Frok and Clone this reposytory onto your system.
-### ;)
+
+A collection of data science and machine learning projects, built to 
+practice and showcase skills in data cleaning, exploratory data analysis, 
+visualization, and machine learning.
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Movie Recommender](./movie-recommender/) | Content-based movie recommendation system built on genre and keyword similarity, with EDA on budgets, revenue, and ratings across ~45,000 films. | pandas, matplotlib, seaborn, scikit-learn |
+
+## Technologies
+Python, pandas, matplotlib, seaborn, scikit-learn, Jupyter Notebook
+
+## Getting Started
+Each project has its own folder with a dedicated README containing 
+setup instructions, dataset links, and details specific to that project.
+
+```bash
+git clone https://github.com/twoj-user/Data_Science_Projects.git
+```
