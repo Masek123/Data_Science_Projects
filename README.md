@@ -18,5 +18,5 @@ Each project has its own folder with a dedicated README containing
 setup instructions, dataset links, and details specific to that project.
 
 ```bash
-git clone https://github.com/twoj-user/Data_Science_Projects.git
+git clone https://github.com/Masek123/Data_Science_Projects.git
 ```
