@@ -10,9 +10,9 @@ crew, keywords, and user ratings.
 
 ## Project Structure
 - `notebooks/01_cleaning.ipynb` — data loading, merging, and cleaning
-- `notebooks/02_eda_movies.ipynb` — exploratory data analysis
+- `notebooks/02_eda.ipynb` — exploratory data analysis
 - `notebooks/03_plots.ipynb` — visualizations
-- `notebooks/04_content-based_recommender_movies.ipynb` — content-based recommender (TF-IDF + cosine similarity)
+- `notebooks/04_model.ipynb` — content-based recommender (TF-IDF + cosine similarity)
 - `utils.py` — shared helper functions
 
 ## Key Findings
